@@ -1,0 +1,232 @@
+[2023-07-17T20:28:19Z INFO  dt_instance] Current Twin: mc-twin-4
+[2023-07-17T20:28:19Z INFO  dt_instance] Replica Name twin-mc-stateful-4
+[2023-07-17T20:28:19Z INFO  dt_instance] Sleeping for 200
+[2023-07-17T20:31:39Z INFO  dt_instance] Connecting to broker at emqx.dtwins:1883
+[2023-07-17T20:31:39Z INFO  dt_instance] Loggin info each 50 messages
+[2023-07-17T20:31:39Z INFO  dt_instance] Set max packet size to 60000 KB.
+[2023-07-17T20:31:39Z INFO  dt_instance] Refreshing topics for twin - Listen to mc-4/#
+[2023-07-17T20:31:39Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(ExactlyOnce)] }
+[2023-07-17T20:32:48Z INFO  dt_instance] received at 2023-07-17 20:32:48.013833974 UTC - from mc-4->source-2 "9" 20:32:48.012994603
+[2023-07-17T20:32:51Z INFO  dt_instance] received at 2023-07-17 20:32:51.268764611 UTC - from mc-4->source-3 "13" 20:32:51.267460220
+[2023-07-17T20:32:53Z INFO  dt_instance] received at 2023-07-17 20:32:53.793438982 UTC - from mc-4->source-3 "18" 20:32:53.792342683
+[2023-07-17T20:32:56Z INFO  dt_instance] received at 2023-07-17 20:32:56.298575587 UTC - from mc-4->source-3 "23" 20:32:56.297687304
+[2023-07-17T20:32:58Z INFO  dt_instance] received at 2023-07-17 20:32:58.804722328 UTC - from mc-4->source-3 "28" 20:32:58.803728594
+[2023-07-17T20:33:01Z INFO  dt_instance] received at 2023-07-17 20:33:01.310159085 UTC - from mc-4->source-3 "33" 20:33:01.308724841
+[2023-07-17T20:33:03Z INFO  dt_instance] received at 2023-07-17 20:33:03.814795754 UTC - from mc-4->source-3 "38" 20:33:03.813698474
+[2023-07-17T20:33:06Z INFO  dt_instance] received at 2023-07-17 20:33:06.320792588 UTC - from mc-4->source-3 "43" 20:33:06.320089006
+[2023-07-17T20:33:08Z INFO  dt_instance] received at 2023-07-17 20:33:08.826070812 UTC - from mc-4->source-3 "48" 20:33:08.825228812
+[2023-07-17T20:33:11Z INFO  dt_instance] received at 2023-07-17 20:33:11.332741384 UTC - from mc-4->source-3 "53" 20:33:11.331614144
+[2023-07-17T20:33:13Z INFO  dt_instance] received at 2023-07-17 20:33:13.837445766 UTC - from mc-4->source-3 "58" 20:33:13.836455420
+[2023-07-17T20:33:16Z INFO  dt_instance] received at 2023-07-17 20:33:16.343485868 UTC - from mc-4->source-3 "63" 20:33:16.342637417
+[2023-07-17T20:33:18Z INFO  dt_instance] received at 2023-07-17 20:33:18.850768063 UTC - from mc-4->source-3 "68" 20:33:18.849693536
+[2023-07-17T20:33:21Z INFO  dt_instance] received at 2023-07-17 20:33:21.356736863 UTC - from mc-4->source-3 "73" 20:33:21.355885521
+[2023-07-17T20:33:23Z INFO  dt_instance] received at 2023-07-17 20:33:23.862599494 UTC - from mc-4->source-3 "78" 20:33:23.861389246
+[2023-07-17T20:33:26Z INFO  dt_instance] received at 2023-07-17 20:33:26.368844319 UTC - from mc-4->source-3 "83" 20:33:26.367319231
+[2023-07-17T20:33:28Z INFO  dt_instance] received at 2023-07-17 20:33:28.874186704 UTC - from mc-4->source-3 "88" 20:33:28.873248433
+[2023-07-17T20:33:31Z INFO  dt_instance] received at 2023-07-17 20:33:31.379465851 UTC - from mc-4->source-3 "93" 20:33:31.378346398
+[2023-07-17T20:33:33Z INFO  dt_instance] received at 2023-07-17 20:33:33.886569287 UTC - from mc-4->source-3 "98" 20:33:33.885405266
+[2023-07-17T20:33:36Z INFO  dt_instance] received at 2023-07-17 20:33:36.393713225 UTC - from mc-4->source-3 "103" 20:33:36.390440651
+[2023-07-17T20:33:38Z INFO  dt_instance] received at 2023-07-17 20:33:38.897046828 UTC - from mc-4->source-3 "108" 20:33:38.895461309
+[2023-07-17T20:33:41Z INFO  dt_instance] received at 2023-07-17 20:33:41.403433608 UTC - from mc-4->source-3 "113" 20:33:41.402009840
+[2023-07-17T20:33:43Z INFO  dt_instance] received at 2023-07-17 20:33:43.908615078 UTC - from mc-4->source-3 "118" 20:33:43.907691048
+[2023-07-17T20:33:46Z INFO  dt_instance] received at 2023-07-17 20:33:46.415041419 UTC - from mc-4->source-3 "123" 20:33:46.413569163
+[2023-07-17T20:33:48Z INFO  dt_instance] received at 2023-07-17 20:33:48.919487902 UTC - from mc-4->source-3 "128" 20:33:48.918738881
+[2023-07-17T20:33:51Z INFO  dt_instance] received at 2023-07-17 20:33:51.427001817 UTC - from mc-4->source-3 "133" 20:33:51.426154847
+[2023-07-17T20:33:53Z INFO  dt_instance] received at 2023-07-17 20:33:53.932461844 UTC - from mc-4->source-3 "138" 20:33:53.931454719
+[2023-07-17T20:33:56Z INFO  dt_instance] received at 2023-07-17 20:33:56.438203564 UTC - from mc-4->source-3 "143" 20:33:56.437260606
+[2023-07-17T20:33:58Z INFO  dt_instance] received at 2023-07-17 20:33:58.944713914 UTC - from mc-4->source-3 "148" 20:33:58.943411175
+[2023-07-17T20:34:01Z INFO  dt_instance] received at 2023-07-17 20:34:01.451121147 UTC - from mc-4->source-3 "153" 20:34:01.450033315
+[2023-07-17T20:34:03Z INFO  dt_instance] received at 2023-07-17 20:34:03.957935410 UTC - from mc-4->source-3 "158" 20:34:03.956903890
+[2023-07-17T20:34:06Z INFO  dt_instance] received at 2023-07-17 20:34:06.463991977 UTC - from mc-4->source-3 "163" 20:34:06.462546570
+[2023-07-17T20:34:08Z INFO  dt_instance] received at 2023-07-17 20:34:08.971236030 UTC - from mc-4->source-3 "168" 20:34:08.967763783
+[2023-07-17T20:34:11Z INFO  dt_instance] received at 2023-07-17 20:34:11.474728348 UTC - from mc-4->source-3 "173" 20:34:11.473397588
+[2023-07-17T20:34:13Z INFO  dt_instance] received at 2023-07-17 20:34:13.981510046 UTC - from mc-4->source-3 "178" 20:34:13.980528364
+[2023-07-17T20:34:16Z INFO  dt_instance] received at 2023-07-17 20:34:16.488590609 UTC - from mc-4->source-3 "183" 20:34:16.487500055
+[2023-07-17T20:34:18Z INFO  dt_instance] received at 2023-07-17 20:34:18.994006506 UTC - from mc-4->source-3 "188" 20:34:18.992812554
+[2023-07-17T20:34:21Z INFO  dt_instance] received at 2023-07-17 20:34:21.501490354 UTC - from mc-4->source-3 "193" 20:34:21.500475861
+[2023-07-17T20:34:24Z INFO  dt_instance] received at 2023-07-17 20:34:24.006235312 UTC - from mc-4->source-3 "198" 20:34:24.005257505
+[2023-07-17T20:34:26Z INFO  dt_instance] received at 2023-07-17 20:34:26.511516017 UTC - from mc-4->source-3 "203" 20:34:26.510611617
+[2023-07-17T20:34:29Z INFO  dt_instance] received at 2023-07-17 20:34:29.017740672 UTC - from mc-4->source-3 "208" 20:34:29.016693009
+[2023-07-17T20:34:31Z INFO  dt_instance] received at 2023-07-17 20:34:31.522905150 UTC - from mc-4->source-3 "213" 20:34:31.522121103
+[2023-07-17T20:34:34Z INFO  dt_instance] received at 2023-07-17 20:34:34.027999772 UTC - from mc-4->source-3 "218" 20:34:34.027259420
+[2023-07-17T20:34:36Z INFO  dt_instance] received at 2023-07-17 20:34:36.537216708 UTC - from mc-4->source-3 "223" 20:34:36.533669726
+[2023-07-17T20:34:39Z INFO  dt_instance] received at 2023-07-17 20:34:39.042090447 UTC - from mc-4->source-3 "228" 20:34:39.041191620
+[2023-07-17T20:34:41Z INFO  dt_instance] received at 2023-07-17 20:34:41.547344394 UTC - from mc-4->source-3 "233" 20:34:41.546445511
+[2023-07-17T20:34:44Z INFO  dt_instance] received at 2023-07-17 20:34:44.052600960 UTC - from mc-4->source-3 "238" 20:34:44.051827095
+[2023-07-17T20:34:46Z INFO  dt_instance] received at 2023-07-17 20:34:46.559334173 UTC - from mc-4->source-3 "243" 20:34:46.558244306
+[2023-07-17T20:34:49Z INFO  dt_instance] received at 2023-07-17 20:34:49.067497271 UTC - from mc-4->source-3 "248" 20:34:49.066056790
+[2023-07-17T20:34:51Z INFO  dt_instance] received at 2023-07-17 20:34:51.572355946 UTC - from mc-4->source-3 "253" 20:34:51.571355725
+[2023-07-17T20:34:54Z INFO  dt_instance] received at 2023-07-17 20:34:54.078801911 UTC - from mc-4->source-3 "258" 20:34:54.077526705
+[2023-07-17T20:34:56Z INFO  dt_instance] received at 2023-07-17 20:34:56.584698360 UTC - from mc-4->source-3 "263" 20:34:56.583318538
+[2023-07-17T20:34:59Z INFO  dt_instance] received at 2023-07-17 20:34:59.090229945 UTC - from mc-4->source-3 "268" 20:34:59.089179059
+[2023-07-17T20:35:01Z INFO  dt_instance] received at 2023-07-17 20:35:01.596758829 UTC - from mc-4->source-3 "273" 20:35:01.595715331
+[2023-07-17T20:35:04Z INFO  dt_instance] received at 2023-07-17 20:35:04.101922018 UTC - from mc-4->source-3 "278" 20:35:04.100768418
+[2023-07-17T20:35:06Z INFO  dt_instance] received at 2023-07-17 20:35:06.606559688 UTC - from mc-4->source-3 "283" 20:35:06.605190532
+[2023-07-17T20:35:09Z INFO  dt_instance] received at 2023-07-17 20:35:09.111482132 UTC - from mc-4->source-3 "288" 20:35:09.110530543
+[2023-07-17T20:35:11Z INFO  dt_instance] received at 2023-07-17 20:35:11.617175397 UTC - from mc-4->source-3 "293" 20:35:11.615957591
+[2023-07-17T20:35:14Z INFO  dt_instance] received at 2023-07-17 20:35:14.121736249 UTC - from mc-4->source-3 "298" 20:35:14.120338540
+[2023-07-17T20:35:16Z INFO  dt_instance] received at 2023-07-17 20:35:16.627133578 UTC - from mc-4->source-3 "303" 20:35:16.625186971
+[2023-07-17T20:35:19Z INFO  dt_instance] received at 2023-07-17 20:35:19.146022497 UTC - from mc-4->source-3 "308" 20:35:19.131240415
+[2023-07-17T20:35:21Z INFO  dt_instance] received at 2023-07-17 20:35:21.638019385 UTC - from mc-4->source-3 "313" 20:35:21.636745587
+[2023-07-17T20:35:24Z INFO  dt_instance] received at 2023-07-17 20:35:24.147120883 UTC - from mc-4->source-3 "318" 20:35:24.141884974
+[2023-07-17T20:35:26Z INFO  dt_instance] received at 2023-07-17 20:35:26.654850029 UTC - from mc-4->source-3 "323" 20:35:26.646208070
+[2023-07-17T20:35:29Z INFO  dt_instance] received at 2023-07-17 20:35:29.152581317 UTC - from mc-4->source-3 "328" 20:35:29.151215193
+[2023-07-17T20:35:31Z INFO  dt_instance] received at 2023-07-17 20:35:31.660053604 UTC - from mc-4->source-1 "338" 20:35:31.658630821
+[2023-07-17T20:35:34Z INFO  dt_instance] received at 2023-07-17 20:35:34.165059121 UTC - from mc-4->source-1 "343" 20:35:34.164188480
+[2023-07-17T20:35:36Z INFO  dt_instance] received at 2023-07-17 20:35:36.672176831 UTC - from mc-4->source-1 "348" 20:35:36.671244838
+[2023-07-17T20:35:39Z INFO  dt_instance] received at 2023-07-17 20:35:39.177433872 UTC - from mc-4->source-1 "353" 20:35:39.176422689
+[2023-07-17T20:35:41Z INFO  dt_instance] received at 2023-07-17 20:35:41.685159853 UTC - from mc-4->source-1 "358" 20:35:41.682072461
+[2023-07-17T20:35:44Z INFO  dt_instance] received at 2023-07-17 20:35:44.189600236 UTC - from mc-4->source-1 "363" 20:35:44.188964283
+[2023-07-17T20:35:46Z INFO  dt_instance] received at 2023-07-17 20:35:46.694406150 UTC - from mc-4->source-1 "368" 20:35:46.693468403
+[2023-07-17T20:35:49Z INFO  dt_instance] received at 2023-07-17 20:35:49.200053352 UTC - from mc-4->source-1 "373" 20:35:49.199051147
+[2023-07-17T20:35:51Z INFO  dt_instance] received at 2023-07-17 20:35:51.705483065 UTC - from mc-4->source-1 "378" 20:35:51.704176670
+[2023-07-17T20:35:54Z INFO  dt_instance] received at 2023-07-17 20:35:54.210263274 UTC - from mc-4->source-1 "383" 20:35:54.209657386
+[2023-07-17T20:35:56Z INFO  dt_instance] received at 2023-07-17 20:35:56.717167113 UTC - from mc-4->source-1 "388" 20:35:56.716174440
+[2023-07-17T20:35:59Z INFO  dt_instance] received at 2023-07-17 20:35:59.227420036 UTC - from mc-4->source-1 "393" 20:35:59.222947453
+[2023-07-17T20:36:01Z INFO  dt_instance] received at 2023-07-17 20:36:01.733959608 UTC - from mc-4->source-1 "398" 20:36:01.727410431
+[2023-07-17T20:36:04Z INFO  dt_instance] received at 2023-07-17 20:36:04.234412138 UTC - from mc-4->source-1 "403" 20:36:04.233301121
+[2023-07-17T20:36:06Z INFO  dt_instance] received at 2023-07-17 20:36:06.740686959 UTC - from mc-4->source-1 "408" 20:36:06.739474401
+[2023-07-17T20:36:09Z INFO  dt_instance] received at 2023-07-17 20:36:09.245076300 UTC - from mc-4->source-1 "413" 20:36:09.244112810
+[2023-07-17T20:36:11Z INFO  dt_instance] received at 2023-07-17 20:36:11.752416426 UTC - from mc-4->source-3 "413" 20:36:11.751300522
+[2023-07-17T20:36:14Z INFO  dt_instance] received at 2023-07-17 20:36:14.258827319 UTC - from mc-4->source-3 "418" 20:36:14.257747612
+[2023-07-17T20:36:16Z INFO  dt_instance] received at 2023-07-17 20:36:16.765659219 UTC - from mc-4->source-3 "423" 20:36:16.762619036
+[2023-07-17T20:36:19Z INFO  dt_instance] received at 2023-07-17 20:36:19.269078854 UTC - from mc-4->source-3 "428" 20:36:19.268192735
+[2023-07-17T20:36:21Z INFO  dt_instance] received at 2023-07-17 20:36:21.776861806 UTC - from mc-4->source-3 "433" 20:36:21.774121767
+[2023-07-17T20:36:24Z INFO  dt_instance] received at 2023-07-17 20:36:24.283120237 UTC - from mc-4->source-1 "443" 20:36:24.280199764
+[2023-07-17T20:36:26Z INFO  dt_instance] received at 2023-07-17 20:36:26.787690870 UTC - from mc-4->source-1 "448" 20:36:26.786355783
+[2023-07-17T20:36:29Z INFO  dt_instance] received at 2023-07-17 20:36:29.292151507 UTC - from mc-4->source-1 "453" 20:36:29.291064978
+[2023-07-17T20:36:31Z INFO  dt_instance] received at 2023-07-17 20:36:31.800639635 UTC - from mc-4->source-3 "453" 20:36:31.796821358
+[2023-07-17T20:36:34Z INFO  dt_instance] received at 2023-07-17 20:36:34.303349877 UTC - from mc-4->source-3 "458" 20:36:34.302222301
+[2023-07-17T20:36:36Z INFO  dt_instance] received at 2023-07-17 20:36:36.810360857 UTC - from mc-4->source-1 "468" 20:36:36.809162236
+[2023-07-17T20:36:39Z INFO  dt_instance] received at 2023-07-17 20:36:39.317566142 UTC - from mc-4->source-1 "473" 20:36:39.316039395
+[2023-07-17T20:36:41Z INFO  dt_instance] received at 2023-07-17 20:36:41.829473442 UTC - from mc-4->source-1 "478" 20:36:41.821736331
+[2023-07-17T20:36:44Z INFO  dt_instance] received at 2023-07-17 20:36:44.337169251 UTC - from mc-4->source-1 "483" 20:36:44.335914147
+[2023-07-17T20:36:46Z INFO  dt_instance] received at 2023-07-17 20:36:46.858411701 UTC - from mc-4->source-1 "488" 20:36:46.842194732
+[2023-07-17T20:36:49Z INFO  dt_instance] received at 2023-07-17 20:36:49.350493483 UTC - from mc-4->source-1 "493" 20:36:49.349189540
+[2023-07-17T20:36:51Z INFO  dt_instance] received at 2023-07-17 20:36:51.855700460 UTC - from mc-4->source-1 "498" 20:36:51.854885844
+[2023-07-17T20:36:54Z INFO  dt_instance] received at 2023-07-17 20:36:54.361895179 UTC - from mc-4->source-1 "503" 20:36:54.360756083
+[2023-07-17T20:36:56Z INFO  dt_instance] received at 2023-07-17 20:36:56.870212267 UTC - from mc-4->source-1 "508" 20:36:56.865935950
+[2023-07-17T20:36:59Z INFO  dt_instance] received at 2023-07-17 20:36:59.373157996 UTC - from mc-4->source-1 "513" 20:36:59.372115732
+[2023-07-17T20:37:01Z INFO  dt_instance] received at 2023-07-17 20:37:01.879194851 UTC - from mc-4->source-1 "518" 20:37:01.878597436
+[2023-07-17T20:37:04Z INFO  dt_instance] received at 2023-07-17 20:37:04.386300940 UTC - from mc-4->source-1 "523" 20:37:04.384927204
+[2023-07-17T20:37:06Z INFO  dt_instance] received at 2023-07-17 20:37:06.890482908 UTC - from mc-4->source-1 "528" 20:37:06.889535650
+[2023-07-17T20:37:09Z INFO  dt_instance] received at 2023-07-17 20:37:09.397540935 UTC - from mc-4->source-1 "533" 20:37:09.394318762
+[2023-07-17T20:37:11Z INFO  dt_instance] received at 2023-07-17 20:37:11.900755405 UTC - from mc-4->source-1 "538" 20:37:11.899820337
+[2023-07-17T20:37:14Z INFO  dt_instance] received at 2023-07-17 20:37:14.409047348 UTC - from mc-4->source-1 "543" 20:37:14.404458469
+[2023-07-17T20:37:16Z INFO  dt_instance] received at 2023-07-17 20:37:16.910735670 UTC - from mc-4->source-1 "548" 20:37:16.909569612
+[2023-07-17T20:37:19Z INFO  dt_instance] received at 2023-07-17 20:37:19.416690479 UTC - from mc-4->source-1 "553" 20:37:19.415592774
+[2023-07-17T20:37:21Z INFO  dt_instance] received at 2023-07-17 20:37:21.930360118 UTC - from mc-4->source-1 "558" 20:37:21.921608288
+[2023-07-17T20:37:24Z INFO  dt_instance] received at 2023-07-17 20:37:24.429358298 UTC - from mc-4->source-1 "563" 20:37:24.427337516
+[2023-07-17T20:37:26Z INFO  dt_instance] received at 2023-07-17 20:37:26.935451419 UTC - from mc-4->source-1 "568" 20:37:26.932363644
+[2023-07-17T20:37:29Z INFO  dt_instance] received at 2023-07-17 20:37:29.442247949 UTC - from mc-4->source-1 "573" 20:37:29.437541948
+[2023-07-17T20:37:31Z INFO  dt_instance] received at 2023-07-17 20:37:31.944468815 UTC - from mc-4->source-1 "578" 20:37:31.942851869
+[2023-07-17T20:37:34Z INFO  dt_instance] received at 2023-07-17 20:37:34.450489432 UTC - from mc-4->source-1 "583" 20:37:34.448931111
+[2023-07-17T20:37:36Z INFO  dt_instance] received at 2023-07-17 20:37:36.955813507 UTC - from mc-4->source-1 "588" 20:37:36.954810341
+[2023-07-17T20:37:39Z INFO  dt_instance] received at 2023-07-17 20:37:39.460304058 UTC - from mc-4->source-1 "593" 20:37:39.459386915
+[2023-07-17T20:37:41Z INFO  dt_instance] received at 2023-07-17 20:37:41.965104532 UTC - from mc-4->source-1 "598" 20:37:41.964079800
+[2023-07-17T20:37:44Z INFO  dt_instance] received at 2023-07-17 20:37:44.473754017 UTC - from mc-4->source-1 "603" 20:37:44.470727545
+[2023-07-17T20:37:46Z INFO  dt_instance] received at 2023-07-17 20:37:46.976181261 UTC - from mc-4->source-1 "608" 20:37:46.975455636
+[2023-07-17T20:37:49Z INFO  dt_instance] received at 2023-07-17 20:37:49.482799165 UTC - from mc-4->source-1 "613" 20:37:49.480418535
+[2023-07-17T20:37:51Z INFO  dt_instance] received at 2023-07-17 20:37:51.996636062 UTC - from mc-4->source-9 "598" 20:37:51.982885231
+[2023-07-17T20:37:54Z INFO  dt_instance] received at 2023-07-17 20:37:54.497969612 UTC - from mc-4->source-1 "623" 20:37:54.492121976
+[2023-07-17T20:37:57Z INFO  dt_instance] received at 2023-07-17 20:37:57.006638839 UTC - from mc-4->source-1 "628" 20:37:57.004914310
+[2023-07-17T20:37:59Z INFO  dt_instance] received at 2023-07-17 20:37:59.514957019 UTC - from mc-4->source-1 "633" 20:37:59.511993055
+[2023-07-17T20:38:02Z INFO  dt_instance] received at 2023-07-17 20:38:02.022958630 UTC - from mc-4->source-9 "618" 20:38:02.019124276
+[2023-07-17T20:38:04Z INFO  dt_instance] received at 2023-07-17 20:38:04.530500856 UTC - from mc-4->source-9 "623" 20:38:04.526354039
+[2023-07-17T20:38:07Z INFO  dt_instance] received at 2023-07-17 20:38:07.038102248 UTC - from mc-4->source-1 "648" 20:38:07.033977264
+[2023-07-17T20:38:09Z INFO  dt_instance] received at 2023-07-17 20:38:09.545218047 UTC - from mc-4->source-9 "633" 20:38:09.540087012
+[2023-07-17T20:38:12Z INFO  dt_instance] received at 2023-07-17 20:38:12.055104671 UTC - from mc-4->source-9 "638" 20:38:12.046380317
+[2023-07-17T20:38:14Z INFO  dt_instance] received at 2023-07-17 20:38:14.555548581 UTC - from mc-4->source-9 "643" 20:38:14.552128814
+[2023-07-17T20:38:17Z INFO  dt_instance] received at 2023-07-17 20:38:17.059106467 UTC - from mc-4->source-9 "648" 20:38:17.058260080
+[2023-07-17T20:38:19Z INFO  dt_instance] received at 2023-07-17 20:38:19.588282644 UTC - from mc-4->source-5 "663" 20:38:19.562075059
+[2023-07-17T20:38:22Z INFO  dt_instance] received at 2023-07-17 20:38:22.089899589 UTC - from mc-4->source-9 "658" 20:38:22.069342200
+[2023-07-17T20:38:24Z INFO  dt_instance] received at 2023-07-17 20:38:24.577873474 UTC - from mc-4->source-3 "678" 20:38:24.575779117
+[2023-07-17T20:38:27Z INFO  dt_instance] received at 2023-07-17 20:38:27.083321086 UTC - from mc-4->source-9 "668" 20:38:27.081988690
+[2023-07-17T20:38:29Z INFO  dt_instance] received at 2023-07-17 20:38:29.600769974 UTC - from mc-4->source-9 "673" 20:38:29.588187496
+[2023-07-17T20:38:32Z INFO  dt_instance] received at 2023-07-17 20:38:32.111635746 UTC - from mc-4->source-9 "678" 20:38:32.094924151
+[2023-07-17T20:38:34Z INFO  dt_instance] received at 2023-07-17 20:38:34.601813086 UTC - from mc-4->source-9 "683" 20:38:34.599812206
+[2023-07-17T20:38:37Z INFO  dt_instance] received at 2023-07-17 20:38:37.107626037 UTC - from mc-4->source-5 "698" 20:38:37.106098008
+[2023-07-17T20:38:39Z INFO  dt_instance] received at 2023-07-17 20:38:39.635216226 UTC - from mc-4->source-5 "703" 20:38:39.614951304
+[2023-07-17T20:38:42Z INFO  dt_instance] received at 2023-07-17 20:38:42.132145071 UTC - from mc-4->source-5 "708" 20:38:42.120088749
+[2023-07-17T20:38:44Z INFO  dt_instance] received at 2023-07-17 20:38:44.643038120 UTC - from mc-4->source-1 "723" 20:38:44.629274369
+[2023-07-17T20:38:47Z INFO  dt_instance] received at 2023-07-17 20:38:47.138245658 UTC - from mc-4->source-5 "718" 20:38:47.136192452
+[2023-07-17T20:38:49Z INFO  dt_instance] received at 2023-07-17 20:38:49.660857562 UTC - from mc-4->source-3 "728" 20:38:49.644185652
+[2023-07-17T20:38:52Z INFO  dt_instance] received at 2023-07-17 20:38:52.165450199 UTC - from mc-4->source-3 "733" 20:38:52.150235034
+[2023-07-17T20:38:54Z INFO  dt_instance] received at 2023-07-17 20:38:54.666126905 UTC - from mc-4->source-1 "743" 20:38:54.658101435
+[2023-07-17T20:38:57Z INFO  dt_instance] received at 2023-07-17 20:38:57.168794326 UTC - from mc-4->source-1 "748" 20:38:57.163615117
+[2023-07-17T20:38:59Z INFO  dt_instance] received at 2023-07-17 20:38:59.681046190 UTC - from mc-4->source-9 "733" 20:38:59.669067631
+[2023-07-17T20:39:02Z INFO  dt_instance] received at 2023-07-17 20:39:02.187794688 UTC - from mc-4->source-9 "738" 20:39:02.175014502
+[2023-07-17T20:39:04Z INFO  dt_instance] received at 2023-07-17 20:39:04.701560017 UTC - from mc-4->source-1 "763" 20:39:04.681148001
+[2023-07-17T20:39:07Z INFO  dt_instance] received at 2023-07-17 20:39:07.190235849 UTC - from mc-4->source-1 "768" 20:39:07.187438825
+[2023-07-17T20:39:09Z INFO  dt_instance] received at 2023-07-17 20:39:09.708201086 UTC - from mc-4->source-1 "773" 20:39:09.694096494
+[2023-07-17T20:39:12Z INFO  dt_instance] received at 2023-07-17 20:39:12.234012564 UTC - from mc-4->source-1 "778" 20:39:12.200935791
+[2023-07-17T20:39:14Z INFO  dt_instance] received at 2023-07-17 20:39:14.715885848 UTC - from mc-4->source-9 "763" 20:39:14.707111252
+[2023-07-17T20:39:17Z INFO  dt_instance] received at 2023-07-17 20:39:17.224213808 UTC - from mc-4->source-9 "768" 20:39:17.222244070
+[2023-07-17T20:39:19Z INFO  dt_instance] received at 2023-07-17 20:39:19.744210062 UTC - from mc-4->source-9 "773" 20:39:19.728036585
+[2023-07-17T20:39:22Z INFO  dt_instance] received at 2023-07-17 20:39:22.248727845 UTC - from mc-4->source-9 "778" 20:39:22.234233908
+[2023-07-17T20:39:24Z INFO  dt_instance] received at 2023-07-17 20:39:24.763068438 UTC - from mc-4->source-9 "783" 20:39:24.739203691
+[2023-07-17T20:39:27Z INFO  dt_instance] received at 2023-07-17 20:39:27.265187654 UTC - from mc-4->source-3 "803" 20:39:27.240372755
+[2023-07-17T20:39:29Z INFO  dt_instance] received at 2023-07-17 20:39:29.835824780 UTC - from mc-4->source-6 "800" 20:39:29.572631046
+[2023-07-17T20:39:32Z INFO  dt_instance] received at 2023-07-17 20:39:32.273834327 UTC - from mc-4->source-9 "798" 20:39:32.258724033
+[2023-07-17T20:39:34Z INFO  dt_instance] received at 2023-07-17 20:39:34.778317642 UTC - from mc-4->source-9 "803" 20:39:34.763333488
+[2023-07-17T20:39:37Z INFO  dt_instance] received at 2023-07-17 20:39:37.275559199 UTC - from mc-4->source-9 "808" 20:39:37.270076887
+[2023-07-17T20:39:40Z INFO  dt_instance] received at 2023-07-17 20:39:40.021367790 UTC - from mc-4->source-0 "836" 20:39:40.006905597
+[2023-07-17T20:39:42Z INFO  dt_instance] received at 2023-07-17 20:39:42.625795822 UTC - from mc-4->source-8 "821" 20:39:42.602154355
+[2023-07-17T20:39:44Z INFO  dt_instance] received at 2023-07-17 20:39:44.801728082 UTC - from mc-4->source-9 "823" 20:39:44.786702313
+[2023-07-17T20:39:47Z INFO  dt_instance] received at 2023-07-17 20:39:47.349754348 UTC - from mc-4->source-6 "835" 20:39:47.113765190
+[2023-07-17T20:39:50Z INFO  dt_instance] received at 2023-07-17 20:39:50.066398240 UTC - from mc-4->source-2 "851" 20:39:50.051778729
+[2023-07-17T20:39:52Z INFO  dt_instance] received at 2023-07-17 20:39:52.573171577 UTC - from mc-4->source-2 "856" 20:39:52.556284486
+[2023-07-17T20:39:55Z INFO  dt_instance] received at 2023-07-17 20:39:55.154028464 UTC - from mc-4->source-9 "843" 20:39:54.823697563
+[2023-07-17T20:39:57Z INFO  dt_instance] received at 2023-07-17 20:39:57.419957801 UTC - from mc-4->source-5 "858" 20:39:57.327883620
+[2023-07-17T20:40:00Z INFO  dt_instance] received at 2023-07-17 20:40:00.416723365 UTC - from mc-4->source-2 "871" 20:40:00.077870726
+[2023-07-17T20:40:02Z INFO  dt_instance] received at 2023-07-17 20:40:02.618654511 UTC - from mc-4->source-4 "870" 20:40:02.092410355
+[2023-07-17T20:40:04Z INFO  dt_instance] received at 2023-07-17 20:40:04.999502622 UTC - from mc-4->source-3 "878" 20:40:04.856577229
+[2023-07-17T20:40:07Z INFO  dt_instance] received at 2023-07-17 20:40:07.509759302 UTC - from mc-4->source-3 "883" 20:40:07.362560603
+[2023-07-17T20:40:10Z INFO  dt_instance] received at 2023-07-17 20:40:10.357435005 UTC - from mc-4->source-0 "896" 20:40:10.080333677
+[2023-07-17T20:40:12Z INFO  dt_instance] received at 2023-07-17 20:40:12.646780094 UTC - from mc-4->source-5 "888" 20:40:12.362147958
+[2023-07-17T20:40:15Z INFO  dt_instance] received at 2023-07-17 20:40:15.316076566 UTC - from mc-4->source-0 "906" 20:40:15.091693299
+[2023-07-17T20:40:17Z INFO  dt_instance] received at 2023-07-17 20:40:17.422473210 UTC - from mc-4->source-9 "888" 20:40:17.379020809
+[2023-07-17T20:40:19Z INFO  dt_instance] received at 2023-07-17 20:40:19.951265412 UTC - from mc-4->source-9 "893" 20:40:19.884364319
+[2023-07-17T20:40:22Z INFO  dt_instance] received at 2023-07-17 20:40:22.493785675 UTC - from mc-4->source-5 "908" 20:40:22.388669260
+[2023-07-17T20:40:25Z INFO  dt_instance] received at 2023-07-17 20:40:25.274493030 UTC - from mc-4->source-7 "908" 20:40:24.842830357
+[2023-07-17T20:40:27Z INFO  dt_instance] received at 2023-07-17 20:40:27.690056213 UTC - from mc-4->source-0 "930" 20:40:27.121065192
+[2023-07-17T20:40:30Z INFO  dt_instance] received at 2023-07-17 20:40:30.119305181 UTC - from mc-4->source-3 "928" 20:40:29.914111579
+[2023-07-17T20:40:32Z INFO  dt_instance] received at 2023-07-17 20:40:32.671395821 UTC - from mc-4->source-2 "935" 20:40:32.159237183
+[2023-07-17T20:40:35Z INFO  dt_instance] received at 2023-07-17 20:40:35.238632148 UTC - from mc-4->source-2 "941" 20:40:35.166280722
+[2023-07-17T20:40:37Z INFO  dt_instance] received at 2023-07-17 20:40:37.693321591 UTC - from mc-4->source-5 "938" 20:40:37.422117825
+[2023-07-17T20:40:40Z INFO  dt_instance] received at 2023-07-17 20:40:40.063904223 UTC - from mc-4->source-9 "933" 20:40:39.930424731
+[2023-07-17T20:40:45Z INFO  dt_instance] received at 2023-07-17 20:40:45.360836550 UTC - from mc-4->source-4 "951" 20:40:42.689987014
+[2023-07-17T20:40:46Z INFO  dt_instance] received at 2023-07-17 20:40:46.389873563 UTC - from mc-4->source-4 "956" 20:40:45.194317696
+[2023-07-17T20:40:47Z INFO  dt_instance] received at 2023-07-17 20:40:47.860028093 UTC - from mc-4->source-6 "956" 20:40:47.778060674
+[2023-07-17T20:40:50Z INFO  dt_instance] received at 2023-07-17 20:40:50.293702933 UTC - from mc-4->source-2 "971" 20:40:50.204859613
+[2023-07-17T20:40:52Z INFO  dt_instance] received at 2023-07-17 20:40:52.808362245 UTC - from mc-4->source-8 "961" 20:40:52.790138359
+[2023-07-17T20:40:55Z INFO  dt_instance] received at 2023-07-17 20:40:55.523806771 UTC - from mc-4->source-0 "986" 20:40:55.206933203
+[2023-07-17T20:40:57Z INFO  dt_instance] received at 2023-07-17 20:40:57.803554540 UTC - from mc-4->source-4 "981" 20:40:57.726535941
+[2023-07-17T20:41:00Z INFO  dt_instance] received at 2023-07-17 20:41:00.383210940 UTC - from mc-4->source-0 "996" 20:41:00.223330136
+[2023-07-17T20:41:02Z INFO  dt_instance] received at 2023-07-17 20:41:02.949325552 UTC - from mc-4->source-9 "978" 20:41:02.497920150
+[2023-07-17T20:41:06Z INFO  dt_instance] received at 2023-07-17 20:41:06.256632381 UTC - from mc-4->source-7 "990" 20:41:05.951255764
+[2023-07-17T20:41:13Z INFO  dt_instance] received at 2023-07-17 20:41:13.113945152 UTC - from mc-4->source-9 "999" 20:41:13.027591995
+[2023-07-17T20:44:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+[2023-07-17T20:44:30Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:31Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:31Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:31Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:38Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:39Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:40Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:44:42Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:45:47Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+[2023-07-17T20:46:02Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Name or service not known" })
+[2023-07-17T20:46:12Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:12Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:12Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:17Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:18Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:23Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:23Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:28Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:28Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:43Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+[2023-07-17T20:46:54Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Name or service not known" })
+[2023-07-17T20:46:54Z INFO  dt_instance] Refreshing topics for twin - Listen to mc-4/#
+[2023-07-17T20:46:54Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [Success(ExactlyOnce)] }
